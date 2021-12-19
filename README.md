@@ -1,2 +1,1 @@
-# NSSC-Data-Analytics-
-Identification and Analysis of Transiting Exoplanet Signals
+# Identification and Analysis of Transiting Exoplanet Signals
